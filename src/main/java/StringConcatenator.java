@@ -1,4 +1,5 @@
 package main.java;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 class StringConcatenator {
@@ -17,15 +18,20 @@ class StringConcatenator {
         return resultingString;
     }
 
-    static void ConcatenateString() {
+    static void concatenateString() {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter a season of the year:");
         String season = scanner.next();
 
         System.out.println("Enter a whole number:");
-        int number = scanner.nextInt();
-
+        int number;
+        try {
+            number = scanner.nextInt();
+        } catch (java.util.InputMismatchException e) {
+            System.out.println("Error! Please enter a valid number as the second argument!");
+            throw new InputMismatchException();
+        }
         System.out.println("Enter an adjective:");
         String adjective = scanner.next();
 
