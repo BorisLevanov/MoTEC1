@@ -18,5 +18,4 @@ public class PhoneBillCalculatorTest {
     @Test
     public void getDoubleTest() {
     }
-
 }
