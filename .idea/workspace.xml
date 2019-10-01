@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f6c146c-c02d-4c07-8c27-d0124c48afdf" name="Default Changelist" comment="latest folder structure... Can't remember what I've done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PhoneBillCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/main/java/PhoneBillCalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0f6c146c-c02d-4c07-8c27-d0124c48afdf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MoTEC1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MoTEC1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MoTEC1/main/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MoTEC1/main/java/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MoTEC1/main/java/StringConcatenator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MoTEC1/main/java/StringConcatenator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/MoTEC1/main/java/StringConcatenatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/MoTEC1/main/java/StringConcatenatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/PhoneBillCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/main/java/PhoneBillCalculatorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,20 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringConcatenator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -63,23 +43,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/main/java/PhoneBillCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#124#125#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/main/java/StringConcatenatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="46">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,10 +57,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/PhoneBillCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+            <state relative-caret-position="525">
+              <caret line="35" column="34" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+                <element signature="e#1274#1275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,7 +174,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -226,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PhoneBillCalculatorTest.roundUpTest">
+  <component name="RunManager" selected="JUnit.PhoneBillCalculatorTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="main.java.Main" />
       <module name="MoTEC1" />
@@ -237,10 +210,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in MoTEC1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBillCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MoTEC1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.PhoneBillCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBillCalculatorTest.getTotalPayableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MoTEC1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.PhoneBillCalculatorTest" />
+      <option name="METHOD_NAME" value="getTotalPayableTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,7 +257,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcatenatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PhoneBillCalculatorTest.roundUpTestPositiveInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MoTEC1" />
       <extension name="coverage">
         <pattern>
@@ -270,23 +266,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="main.java" />
-      <option name="MAIN_CLASS_NAME" value="main.java.StringConcatenatorTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringConcatenatorTest.assembleString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MoTEC1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="main.java" />
-      <option name="MAIN_CLASS_NAME" value="main.java.StringConcatenatorTest" />
-      <option name="METHOD_NAME" value="assembleString" />
+      <option name="MAIN_CLASS_NAME" value="main.java.PhoneBillCalculatorTest" />
+      <option name="METHOD_NAME" value="roundUpTestPositiveInteger" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -294,18 +275,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.StringConcatenatorTest" />
-      <item itemvalue="JUnit.StringConcatenatorTest.assembleString" />
-      <item itemvalue="JUnit.All in MoTEC1" />
       <item itemvalue="JUnit.PhoneBillCalculatorTest.roundUpTest" />
+      <item itemvalue="JUnit.PhoneBillCalculatorTest" />
+      <item itemvalue="JUnit.PhoneBillCalculatorTest.getTotalPayableTest" />
+      <item itemvalue="JUnit.PhoneBillCalculatorTest.roundUpTestPositiveInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PhoneBillCalculatorTest" />
+        <item itemvalue="JUnit.PhoneBillCalculatorTest.roundUpTestPositiveInteger" />
+        <item itemvalue="JUnit.PhoneBillCalculatorTest.getTotalPayableTest" />
         <item itemvalue="JUnit.PhoneBillCalculatorTest.roundUpTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.StringConcatenatorTest" />
-        <item itemvalue="JUnit.All in MoTEC1" />
-        <item itemvalue="JUnit.StringConcatenatorTest.assembleString" />
       </list>
     </recent_temporary>
   </component>
@@ -321,38 +302,53 @@
       <updated>1567938613557</updated>
       <workItem from="1567938617328" duration="5901000" />
     </task>
+    <task id="LOCAL-00001" summary="latest folder structure... Can't remember what I've done">
+      <created>1569950021753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569950021753</updated>
+    </task>
+    <task id="LOCAL-00002" summary="latest folder structure... Can't remember what I've done">
+      <created>1569950667348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569950667348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GlassFish_Embedded_3_1__StringConcatenatorTest_concatenateString - 2019.09.08 at 12h 41m 10s.xml">
-      <configuration name="GlassFish Embedded 3.1: StringConcatenatorTest.concatenateString" configurationId="ArquillianJUnit" />
+    <history-entry file="PhoneBillCalculatorTest_roundUpTestPositiveInteger - 2019.10.01 at 19h 15m 49s.xml">
+      <configuration name="PhoneBillCalculatorTest.roundUpTestPositiveInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest - 2019.09.08 at 12h 43m 03s.xml">
-      <configuration name="StringConcatenatorTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest_roundUpTestPositiveInteger - 2019.10.01 at 19h 16m 17s.xml">
+      <configuration name="PhoneBillCalculatorTest.roundUpTestPositiveInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest_assembleString - 2019.09.08 at 12h 43m 56s.xml">
-      <configuration name="StringConcatenatorTest.assembleString" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 16m 45s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest - 2019.09.08 at 12h 47m 05s.xml">
-      <configuration name="StringConcatenatorTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 17m 10s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_MoTEC1 - 2019.09.08 at 13h 11m 18s.xml">
-      <configuration name="All in MoTEC1" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 17m 25s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest - 2019.09.24 at 18h 28m 13s.xml">
-      <configuration name="StringConcatenatorTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 18m 12s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest - 2019.09.24 at 18h 28m 44s.xml">
-      <configuration name="StringConcatenatorTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 19m 03s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringConcatenatorTest - 2019.09.24 at 18h 29m 07s.xml">
-      <configuration name="StringConcatenatorTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 19m 48s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneBillCalculatorTest_roundUpTest - 2019.09.24 at 19h 48m 12s.xml">
-      <configuration name="PhoneBillCalculatorTest.roundUpTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 22m 10s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PhoneBillCalculatorTest_roundUpTest - 2019.10.01 at 18h 08m 17s.xml">
-      <configuration name="PhoneBillCalculatorTest.roundUpTest" configurationId="JUnit" />
+    <history-entry file="PhoneBillCalculatorTest - 2019.10.01 at 19h 22m 32s.xml">
+      <configuration name="PhoneBillCalculatorTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -473,16 +469,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/MoTEC1/Main.class" />
     <entry file="file://$PROJECT_DIR$/test/StringConcatenator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringConcatenator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="290">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -492,31 +481,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/main/java/StringConcatenatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PhoneBillCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        <state relative-caret-position="525">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/main/java/PhoneBillCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="46">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
           </folding>
         </state>
       </provider>
